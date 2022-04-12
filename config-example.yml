@@ -1,0 +1,7 @@
+eVKTOKEN : 'your_vk_token'
+TGTOKEN : 'your_tg_token'
+CHATS_ID:
+  'vk_chat_id_from1' : 'tg_chat_id_to1'
+  'vk_chat_id_from2' : 'tg_chat_id_to2'
+  'vk_chat_id_from3' : 'tg_chat_id_to3'
+  'vk_chat_id_from4' : 'tg_chat_id_to4'
